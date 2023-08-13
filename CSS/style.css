@@ -397,6 +397,7 @@ section#why-choose-us {
 .circle canvas {
     vertical-align: top;
     width: 120px !important;
+    height: 126px !important;
 }
 
 .circle strong {
